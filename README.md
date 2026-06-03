@@ -101,11 +101,11 @@ A full-stack EMS with secure authentication, role-based access control (Admin & 
 
 <div align="center">
 
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saga-2004&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saga-2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saga-2004&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saga-2004&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saga-2004&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Saga-2004&theme=github-dark&hide_border=true)
 
 </div>
 
