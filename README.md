@@ -8,7 +8,6 @@
 
 [![Email](https://img.shields.io/badge/Email-msagars2008%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:msagars2008@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Saga--2004-181717?style=flat&logo=github&logoColor=white)](https://github.com/Saga-2004)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209560724847-25D366?style=flat&logo=whatsapp&logoColor=white)](tel:+919560724847)
 
 </div>
 
@@ -100,13 +99,10 @@ A full-stack EMS with secure authentication, role-based access control (Admin & 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Sagar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saga-2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saga-2004&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Saga-2004&theme=github-dark&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Saga-2004&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saga-2004&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="160" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Saga-2004&theme=github-dark&hide_border=true" height="160" />
 </div>
 
 ---
