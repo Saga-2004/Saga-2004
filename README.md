@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sagar Sehrawat 👋
+# Hi, I'm Sagar 👋
 
 ### AI-First Full Stack Developer
 
